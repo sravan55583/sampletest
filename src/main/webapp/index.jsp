@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<h2>Jenkins and Tomcat integration..... </h2>
 
-<h2>PSD DEVOPS . . . </h2>
-<h2>Tomcat and Jenkins integration </h2>
-<h2>Tomcat and Jenkins integration using webhook . . .</h2>
-<h2>Tomcat and Jenkins integration using webhook integration  . . .</h2>
-<h2>Tomcat and Jenkins integration using webhook integration  and deploy to container plugin. . .</h2>
-<h2>Checking ansible purpose . . . . . . . . . . . . :):</h2>
-<h2>developed ci-cd script using ansible . . . . . </h2>
-<h2>developed ci-cd script using Docker . . . . . </h2>
-<h2>Testing devops October batch . . . . . . . </h2>
-<h2>Testing poll scm demo . . . . . . . </h2>
-<h2>Testing webhook demo . . . . . . . </h2>
 </body>
 </html>
